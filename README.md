@@ -1,6 +1,3 @@
-Here’s the complete **README.md** content for your project **OJTCertificateVerifier** written in markdown format:
-
-```markdown
 # OJT Certificate Verifier
 
 ## Project Overview
